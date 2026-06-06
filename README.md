@@ -29,8 +29,9 @@ Você pode alterar o comportamento da animação diretamente no código:
 * **Quantidade**: Mude a constante `const N = 100;` para aumentar ou diminuir a quantidade de elementos flutuantes.
 * **Estilo**: As cores e velocidades podem ser ajustadas dentro da tag `<style>` no cabeçalho do documento.
 
+## Imagem do Projeto:
+Acesse: https://i-love-you-beige-sigma.vercel.app/
+<img src="img/imagem do projeto.png" alt="imagem do projeto">
+
 ---
 *Criado com carinho.*
-
-## Imagem do Projeto:
-<img src="img/imagem do projeto.png" alt="imagem do projeto">

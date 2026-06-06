@@ -31,6 +31,7 @@ Você pode alterar o comportamento da animação diretamente no código:
 
 ## Imagem do Projeto:
 Acesse: https://i-love-you-beige-sigma.vercel.app/
+
 <img src="img/imagem do projeto.png" alt="imagem do projeto">
 
 ---
